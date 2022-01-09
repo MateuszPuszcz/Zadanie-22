@@ -1,0 +1,16 @@
+h1 {
+    background-color: royalblue;
+
+}
+
+h3 {
+    background-color: saddlebrown;
+}
+
+p {
+    color: green;
+}
+
+h1 + h3 {
+    color: grey;
+}
